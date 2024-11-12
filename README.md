@@ -19,7 +19,7 @@ Each textile card, upon click, reveals a visual showing the process and techniqu
 - **Animation**:
   - Card flip is a simple and smooth animation meant to engage the user. The "show all" at a glance view allows for dragging to pan and zoom.
 - **Image Link**:
-  - ![Sketch 2](/cards.jpeg)
+  - ![Sketch 2](/cards.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ We use scrollytelling to provide a tutorial and introduction to textiles as mate
 - **Animation**:
   - Smooth and engaging scrollytelling effects: for introducing medium/material type, we want all the images to be slightly transparent, and have the textiles that are of each material fade in as we scroll. For example, the user will scroll and read about how many cotton textiles there are and those cotton textiles will be highlighted in the full at a glance grid. For region, we will provide some historical context and as the user scrolls and learns about X textiles from Y continent, those textiles will be "threaded" and form the shape of that continent to effectively create a map. The "show all" view is also zoomable and users can drag the screen to pan around.
 - **Image Link**:
-  - ![Sketch 3](scrollytelling.jpeg)
+  - ![Sketch 3](scrollytelling.jpg)
 
 ---
 

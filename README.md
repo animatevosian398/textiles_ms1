@@ -7,7 +7,7 @@ A map where textiles are "threaded" from their original countries' to the Smiths
 
 - **Animation**:
   - Textiles appear over time showing their origin country and "threaded" with thin lines to the Smithsonian museums in the U.S. 
-- **Image Link**:
+- **Sketch**:
   - ![Sketch 1](/1map.jpeg)
 
 ---
@@ -18,7 +18,7 @@ A map where textiles are "threaded" from their original countries' to the Smiths
 Each textile card, upon click, reveals a visual showing the process and technique used to create that textile, to encourage learning and curiousity of the methods used to create these materials.
 - **Animation**:
   - Card flip is a simple and smooth animation meant to engage the user. The "show all" at a glance view allows for dragging to pan and zoom.
-- **Image Link**:
+- **Sketch**:
   - ![Sketch 2](/cards.jpg)
 
 ---

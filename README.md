@@ -40,3 +40,4 @@ We use scrollytelling to provide a tutorial and introduction to textiles as mate
 - The visualization will still have the color and region filters. 
 - **User Flow**: We want users to be able to pan (drag) and zoom the grid of images.
 - We are intent on adding historical or cultural context, perhaps via an "About" page.
+- Based on feedback from last time, we will enhance the clarity of the "menu" button by adding a glow or movement to it; this shoud help users know to click on the spool for the sidebar menu with filters.

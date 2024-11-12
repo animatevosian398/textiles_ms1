@@ -37,6 +37,6 @@ We use scrollytelling to provide a tutorial and introduction to textiles as mate
 
 ## Additional Notes
 
-- **Color Scheme**: [Optional details about color scheme]
-- **Typography**: [Optional details about fonts or text styling]
-- **User Flow**: [Optional description of how each scroll interaction ties the sketches together]
+- The visualization will still have the color and region filters. 
+- **User Flow**: We want users to be able to pan (drag) and zoom the grid of images.
+- We are intent on adding historical or cultural context, perhaps via an "About" page.
